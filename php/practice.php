@@ -45,6 +45,3 @@ $calendar2018 = [
 
 // 12月を表示する
 echo $calendar2018["December"] . "\n";
-
-
-echo "変更します";
