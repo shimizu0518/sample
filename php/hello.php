@@ -6,5 +6,5 @@ $ touch practice.php
 <?php
 echo 'hello php!';
 
-$ php practice.php
+echo "変更しますします";
 

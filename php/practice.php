@@ -47,3 +47,4 @@ $calendar2018 = [
 echo $calendar2018["December"] . "\n";
 
 
+echo "変更します";
